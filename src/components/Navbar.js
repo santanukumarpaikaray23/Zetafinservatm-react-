@@ -28,7 +28,7 @@ function Navbar(){
         <Link to="/" className="navbar-logo" onClick=
         {closeMobileMenu}>
 
-       ZETAFINSERV(ATM)
+       ZETAFINSERV
 
        </Link>
        <div className="menu-icon" onClick={handleClick}>
