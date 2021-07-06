@@ -15,14 +15,16 @@ export default function Services(){
           <li>STATEMENT REQUEST</li>
           <li>MOBILE BANKING REG</li>
           <li>MINI STATEMENT</li>
-          <li>PIN CHANGE</li> 
+          <li>PIN CHANGE</li>
+        
           </ol>
-      
+         
          </div>
+       
 
         </div>
-
+        
         
     )
 
-}
+    }
