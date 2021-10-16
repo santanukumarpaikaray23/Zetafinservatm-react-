@@ -21,13 +21,16 @@ h1{
     color:red;
    
 }
-p{
+ ol{
     color:white;
     margin-left:5em ;
-}
+} 
 .one{
     margin-top: -300px;;
 }
 h2{
     color:crimson;
+}
+p{
+    color:white;
 }

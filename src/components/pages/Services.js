@@ -16,8 +16,9 @@ export default function Services(){
           <li>MOBILE BANKING REG</li>
           <li>MINI STATEMENT</li>
           <li>PIN CHANGE</li>
-        
+          <a href="/" class="btn btn-danger pull-right btnNext">Goto Home</a> 
           </ol>
+          {/* <a href="/" class="btn btn-primary pull-right btnNext">Goto Home</a> */}
          
          </div>
        
